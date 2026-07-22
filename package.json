@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/SarahShkb/animal-shelter#readme",
   "workspaces": [
-    "apps/*"
+    "apps/*",
+    "packages/*"
   ],
   "devDependencies": {
     "turbo": "latest"
